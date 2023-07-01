@@ -4,17 +4,18 @@
 
 ## 使うもの
 1. マイクロビット本体
-2. スピーカー
 
 ## プログラム
 
 ![](./picopico.png)
 
-プロジェクト： https://makecode.microbit.org/_PJUbJ12o1bog
+
+プロジェクト： https://makecode.microbit.org/_6zrFmKait5b8
 
 ## 作り方
 
-1. プログラムをマイクロビットに書きこむ
+1. 変数`音程A`と`音程B`を作ります
+2. プログラムをマイクロビットに書きこみます
 
 ## 使い方
 

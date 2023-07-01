@@ -4,10 +4,8 @@
 * [じしゃくの力をはかろう](./program/mag.md)
 * [ピコピコマシーンを作ろう](./program/picopico.md)
 * [フラッシュ暗算で遊ぼう](./program/calc.md)
-* [歩数計を作ろう](./program/walk.md)
 * [ひみつの通信機を作ろう](./program/ble.md)
-* [たからさがしゲームを作ろう](./program/treasure.md)
-
+* [たからさがしゲームで遊ぼう](./program/treasure.md)
 
 
 ---
