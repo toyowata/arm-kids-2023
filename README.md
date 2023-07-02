@@ -6,6 +6,7 @@
 * [フラッシュ暗算で遊ぼう](./program/calc.md)
 * [ひみつの通信機を作ろう](./program/ble.md)
 * [たからさがしゲームで遊ぼう](./program/treasure.md)
+* [メロディーをならそう](./program/melody.md)
 
 
 ---
