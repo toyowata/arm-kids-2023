@@ -8,7 +8,7 @@
 
 ## プログラム
 
-![](./treasure.png)
+<img width="400" src="./treasure.png">
 
 
 プロジェクト： https://makecode.microbit.org/_KtRWwp3F1iLH

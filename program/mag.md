@@ -7,7 +7,7 @@
 
 ## プログラム
 
-![](./mag.png)
+<img width="400" src="./mag.png">
 
 プロジェクト： https://makecode.microbit.org/_YWYLyThhL6Ta
 

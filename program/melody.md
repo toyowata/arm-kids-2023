@@ -7,7 +7,7 @@
 
 ## プログラム
 
-![](./melody.png)
+<img width="320" src="./melody.png">
 
 
 プロジェクト： https://makecode.microbit.org/_9j0gkoCHegE0

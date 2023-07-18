@@ -7,7 +7,7 @@
 
 ## プログラム
 
-![](./calc.png)
+<img width="400" src="./calc.png">
 
 プロジェクト： https://makecode.microbit.org/_Dv5ezU6ab1Jp
 

@@ -8,7 +8,7 @@
 
 ## プログラム
 
-![](./ble.png)
+<img width="400" src="./ble.png">
 
 プロジェクト： https://makecode.microbit.org/_DguRwWHPUVaC
 
@@ -16,7 +16,7 @@
 
 1. 変数`名前`を作ります
 2. `文字列を表示`ブロックの変数`receivedString`は、`無線で受信したとき`ブロックからコピー（変数をタップして移動）します
-![](./receiveString.png)
+<img width="250" src="./receiveString.png">
 3. プログラムをマイクロビットに書きこみます
 4. 電池ボックスをつなぎます
 

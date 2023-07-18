@@ -9,7 +9,7 @@
 
 ## プログラム
 
-![](./dice.png)
+<img width="400" src="./dice.png">
 
 プロジェクト： https://makecode.microbit.org/_eyYKLefCTY0w
 
@@ -21,8 +21,8 @@
 4. 電池ボックスとつなぎます
 5. LEDが外から見えるようにカプセルに入れます  
 
-![](./dice1.jpg)
-![](./dice2.jpg)
+<img width="400" src="./dice1.jpg">
+<img width="400" src="./dice2.jpg">
 
 ## 使い方
 
